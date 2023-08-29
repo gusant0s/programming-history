@@ -1,6 +1,9 @@
 function Hero() {
-    return <hero>Hi, eu faço programa!</hero>;
-  }
-  
-  export default Hero;
-  
+  return (
+    <div className="hero">
+      <h1>nfdnfsdjfnsdjbf</h1>
+    </div>
+  );
+}
+
+export default Hero;

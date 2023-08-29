@@ -1,11 +1,13 @@
-import Nav from '../../components/Nav'
-
+import Nav from "../../components/Nav";
+import Hero from "../../components/Hero";
 
 function Home() {
-    return (
+  return (
+    <>
       <Nav></Nav>
-    );
-  }
-  
-  export default Home;
-  
+      <Hero></Hero>
+    </>
+  );
+}
+
+export default Home;

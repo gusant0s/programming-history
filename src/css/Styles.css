@@ -1,0 +1,10 @@
+@import "./Nav.css";
+@import "./Hero.css";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Rubik+Iso&display=swap');
+
+* {
+    font-family: 'Manrope', sans-serif;
+    margin: 0%;
+}
