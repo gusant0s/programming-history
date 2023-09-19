@@ -1,0 +1,18 @@
+.frontback {
+    height: 70vh;
+    padding: 3rem;
+}
+
+.frontback h2 {
+    color: #5ee405;
+    margin-bottom: 1rem;
+}
+
+.frontback h4 {
+    margin-bottom: 2rem;
+    color: #fff;
+}
+
+.frontback P {
+  color:#fff;
+}

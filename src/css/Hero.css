@@ -1,16 +1,22 @@
 .hero {
     height: 100vh;
-    background: linear-gradient(to right,#000,#e70606e0,#078fdd, #5ee405, #ffff01);
-    color:#ffff ;
+    background: linear-gradient(to right, #000, #e70606e0, #078fdd, #5ee405, #ffff01);
+    color: #ffff;
 
+    display: flex;
+    align-items: center;
+    height: 100vh;
 }
-.hero h2{
-    padding-top:  4rem ;
+
+.hero h2 {
+    padding-top: 4rem;
     width: 600px;
-    padding-left: 2rem;
+    font-size: 30px;
+    padding-left: 3rem;
 }
 
-.hero p{
- padding-left: 2rem;   
- padding-top:4rem ;
+.hero p {
+    padding-left: 3rem;
+    padding-top: 1rem;
+    font-size: 20px;
 }

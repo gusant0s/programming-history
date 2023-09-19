@@ -1,0 +1,105 @@
+.align-body-languages{
+    padding: 4rem 3rem;
+}
+
+.align-body-languages p{
+    color: #fff;
+}
+
+.css{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.css h2 {
+    color: rgb(255, 0, 0);
+
+}
+
+.javascript{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.javascript h2 {
+    color: rgb(217, 255, 0);
+}
+
+.kotlin{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.kotlin h2 {
+    color: rgb(9, 255, 0);
+}
+
+.kotlin{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.ruby{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.ruby h2 {
+    color: aqua;
+}
+
+.c{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.c h2 {
+    color: rgb(4, 0, 255);
+}
+
+.assembly{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.assembly h2 {
+    color: rgb(255, 0, 200);
+}
+
+.python{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.python h2 {
+    color: rgb(168, 0, 36);
+}
+
+.django{
+       padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.django h2 {
+    color: rgb(0, 88, 15);
+}
+
+.java{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.java h2 {
+    color: rgb(160, 168, 37);
+}
+
+.cplusplus{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.cplusplus h2 {
+    color: rgb(197, 87, 87);
+}
+
+

@@ -1,5 +1,16 @@
+import Nav from "../../components/Nav";
+import Footer from "../../components/Footer";
+import Body from "./components/Body";
+
 function Languages() {
-    return <h2>Hi, I am a Language!</h2>;
+   return(
+    <>
+    <Nav></Nav>
+    <Body></Body>
+    <Footer></Footer>
+    </>
+
+   )
   }
   
   export default Languages;
