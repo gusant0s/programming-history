@@ -1,6 +1,15 @@
+import Nav from "../../components/Nav";
+import Footer from "../../components/Footer";
+import Body from "./components/Body";
+
 function ProjectHistory() {
-    return <h2>Hi, I am a ProjectHistory!</h2>;
-  }
-  
-  export default ProjectHistory;
-  
+  return (
+    <>
+      <Nav></Nav>
+      <Body></Body>
+      <Footer></Footer>
+    </>
+  );
+}
+
+export default ProjectHistory;

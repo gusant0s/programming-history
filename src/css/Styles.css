@@ -1,8 +1,12 @@
 @import "./Nav.css";
 @import "./Hero.css";
-@import "./About.css";
 @import "./Evolution.css";
-
+@import "./About.css";
+@import "./FrontBack.css";
+@import "./Footer.css";
+@import "./Language.css";
+@import "./Programming.css";
+@import "./ProjectHistory.css";
 
 @import url('https://fonts.googleapis.com/css2?family=Manrope&family=Rubik+Iso&display=swap');
 
@@ -12,5 +16,6 @@
 }
 
 body {
-    background-color: #1e1e1e;
+    background-color: #181818;
+    background: linear-gradient(to right, #000, #04212e, #042f43, #033857);
 }

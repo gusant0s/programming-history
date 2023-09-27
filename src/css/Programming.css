@@ -1,0 +1,63 @@
+/* Body2.css */
+
+.align-body-projecthistory {
+    max-width: 800px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 4rem;
+    font-family: Arial, sans-serif;
+}
+
+.main-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.main-heading-text {
+    color: #fff;
+}
+
+.content-styles-linus,
+.content-styles-tim,
+.content-styles-ada {
+    margin-top: 40px;
+    padding: 20px;
+    border: 1px #27ffbb solid;
+    box-shadow: 7px 5px 22px rgba(214, 214, 214, 0.829);
+    border-radius: 10px;
+    transition: transform 0.4s ease;
+}
+
+.content-styles-linus:hover,
+.content-styles-tim:hover,
+.content-styles-ada:hover {
+    transform: rotate(3deg);
+    background-color: #fff;
+}
+
+.content-styles-linus h2,
+.content-styles-tim h2,
+.content-styles-ada h2 {
+    background: linear-gradient(to top, #019325, #6ff7ba);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.content-styles-linus p,
+.content-styles-tim p,
+.content-styles-ada p {
+    color: #fff;
+    line-height: 1.5;
+    transition: transform 0.4s ease;
+}
+
+.content-styles-linus:hover p,
+.content-styles-tim:hover p,
+.content-styles-ada:hover p {
+    color: #3d3d3d;
+    line-height: 1.5;
+}

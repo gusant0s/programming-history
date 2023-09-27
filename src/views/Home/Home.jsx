@@ -1,7 +1,9 @@
 import Nav from "../../components/Nav";
 import Hero from "../../components/Hero";
-import About from "../../layout/About";
-import Evolution from "../../layout/Evolution";
+import About from "../../components/About";
+import Evolution from "../../components/Evolution";
+import FrontBack from "../../components/FrontBack";
+import Footer from "../../components/Footer";
 
 function Home() {
   return (
@@ -10,6 +12,8 @@ function Home() {
       <Hero></Hero>
       <About></About>
       <Evolution></Evolution>
+      <FrontBack></FrontBack>
+      <Footer></Footer>
     </>
   );
 }

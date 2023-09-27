@@ -1,0 +1,51 @@
+.frontback {
+    height: 70vh;
+    padding: 3rem 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.size-frontback {
+    width: 1150px;
+}
+
+.frontback h2 {
+    color: #5a05e4;
+    margin-bottom: 1rem;
+    font-size: 28px;
+}
+
+.frontback h4 {
+    margin-bottom: 2rem;
+    color: #fff;
+}
+
+.frontback P {
+    color: #fff;
+}
+
+.divider {
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.x {
+    color: #e40505;
+    font-size: 100px;
+}
+
+.front h3 {
+    color: #ffff01;
+    font-size: 25px;
+    margin-bottom: 1rem;
+}
+
+.back h3 {
+    color: #078fdd;
+    font-size: 25px;
+    margin-bottom: 1rem;
+}

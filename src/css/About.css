@@ -1,10 +1,13 @@
 .about {
     height: 70vh;
-    padding: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 3rem;
 }
 
 .about h2 {
-    color: #5ee405;
+    color: #ffff01;
     margin-bottom: 1rem;
 }
 
@@ -15,4 +18,6 @@
 
 .about P {
     color: #fff;
+    width: 700px;
+    margin-right: 2rem;
 }
