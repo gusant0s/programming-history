@@ -1,0 +1,42 @@
+/* Body.css */
+
+.body-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 8rem;
+    font-family: Arial, sans-serif;
+}
+
+.main-heading {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.language {
+    border: 2px solid #003ba1;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+}
+
+.language:hover {
+    transform: scale(1.05);
+    color: #828282;
+}
+
+.language-heading {
+    font-size: 28px;
+    margin-bottom: 10px;
+    background: linear-gradient(to top, #ff00cc, #33adff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.language-description {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #dfdfdf;
+}

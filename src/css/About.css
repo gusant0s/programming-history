@@ -1,0 +1,23 @@
+.about {
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 3rem;
+}
+
+.about h2 {
+    color: #ffff01;
+    margin-bottom: 1rem;
+}
+
+.about h4 {
+    margin-bottom: 2rem;
+    color: #fff;
+}
+
+.about P {
+    color: #fff;
+    width: 700px;
+    margin-right: 2rem;
+}

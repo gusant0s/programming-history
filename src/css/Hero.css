@@ -1,0 +1,22 @@
+.hero {
+    height: 100vh;
+    background: linear-gradient(to right, #000, #078fdd, #7af22a95, #ffff019e);
+    color: #ffff;
+
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.hero h2 {
+    padding-top: 4rem;
+    width: 600px;
+    font-size: 30px;
+    padding-left: 3rem;
+}
+
+.hero p {
+    padding-left: 3rem;
+    padding-top: 1rem;
+    font-size: 20px;
+}
